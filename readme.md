@@ -12,3 +12,5 @@ To run the program:
 2. Created a table named "songs";
 3. Added columns: "id, title, release_date, release_date_full, lyrics_url, img_url, img_path";
 4. Column "id" is used as the primary key.
+
+![View](https://github.com/anatota/Pink-Floyd-API/blob/main/view.PNG?raw=true)
